@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+h2{
+  font-size: 20px;
+}
+
+form{
+  display: inline-block;
+  background-color: aquamarine;
+  padding: 20px;
+}
+
+form div{
+  margin: 15px;
+}
+
+form label{
+  display: inline-block;
+  width: 100px;
+  text-align: left;
+}
+
+a{
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color:aqua;
+}
